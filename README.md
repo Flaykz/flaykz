@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer
 - 🔭 Working on multiple frontend and backend project using Angular/Spring Boot/Postgres, ExtJS/Grails, React/NodeJS/MongoDB or Whatever fall in my hands
-- 🌱 Learning design patterns, IA models, Crypto dev, IOT and so on
+- 🌱 Learning design patterns, IA models, Blockchain, IOT and so on
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidbrouste)

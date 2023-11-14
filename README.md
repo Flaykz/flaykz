@@ -15,7 +15,6 @@ I am a fullstack software engineer
 <img align="left" alt="java" src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF" />
 <img align="left" alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=%23FFFFFF" />  
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
 
 
